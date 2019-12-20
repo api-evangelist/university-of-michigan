@@ -1,0 +1,79 @@
+{
+    "name": "University of Michigan",
+    "description": "A top-ranked public university, the University of Michigan has a tradition of excellence in research, learning and teaching, sports and the arts, and more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1635-university-of-michigan.jpg",
+    "tags": [
+        "have api",
+        "michigan",
+        "universities",
+        "university leader",
+        "university portal"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/university-of-michigan\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "University of Michigan",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1635-university-of-michigan.jpg",
+            "humanURL": "http:\/\/umich.edu\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/university-of-michigan-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/university-of-michigan-ann-arbor"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/university-of-michigan"
+        },
+        {
+            "type": "Email",
+            "url": "rackadmis@umich.edu"
+        },
+        {
+            "type": "Email",
+            "url": "info@umich.edu"
+        },
+        {
+            "type": "Email",
+            "url": "financial.aid@umich.edu"
+        },
+        {
+            "type": "Email",
+            "url": "housing@umich.edu"
+        },
+        {
+            "type": "Email",
+            "url": "4HELP@umich.edu"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/openmichigan"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/UMich"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.it.umich.edu\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/umich.edu\/"
+        }
+    ]
+}
